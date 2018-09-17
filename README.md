@@ -1,11 +1,16 @@
 # sparks-final-assignment
 
-Apache Spark
-Final Assignment
-Aim​ :
+##Apache Spark
+##Final Assignment
+
+
+
+##Aim​ :
 Complete all the questions given below using Spark Shell or creating an SBT application using
 Spark dependencies.
 Description of Data​ :
+
+
 Power plant has a lot of machines. Each machine has a thermostat attached to it. Each thermostat
 emits temperature (in o​ ​ C) information along with the timestamp of the temperature recorded.
 Eg​ :
